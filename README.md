@@ -3,4 +3,4 @@
 ## Mods
 
 ### Co-Drivers
-* Liam Brennan - [Download](https://github.com/TommyJ1994/gRally-mods/blob/master/brennan-1.0.0.grMod)
+* Liam Brennan - [Download](https://github.com/TommyJ1994/gRally-mods/raw/master/brennan-1.0.0.grMod)
